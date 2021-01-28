@@ -3,3 +3,8 @@ AI/DimensionalityReduction/test.csv
 AI/DimensionalityReduction/train.csv
 AI/.DS_Store
 AI/.DS_Store
+AI/AmazonFoodReviews/database.sqlite
+AI/AmazonFoodReviews/GoogleNews-vectors-negative300.bin
+AI/AmazonFoodReviews/hashes.txt
+AI/AmazonFoodReviews/Reviews.csv
+AI/.DS_Store
