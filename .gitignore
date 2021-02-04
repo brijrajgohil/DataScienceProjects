@@ -8,3 +8,12 @@ AI/AmazonFoodReviews/GoogleNews-vectors-negative300.bin
 AI/AmazonFoodReviews/hashes.txt
 AI/AmazonFoodReviews/Reviews.csv
 AI/.DS_Store
+AI/KNN/demo_data/9.random.csv
+AI/KNN/demo_data/8.twospirals.csv
+AI/KNN/demo_data/7.xor.csv
+AI/KNN/demo_data/6.overlap.csv
+AI/KNN/demo_data/5.outlier.csv
+AI/KNN/demo_data/4.linearsep.csv
+AI/KNN/demo_data/3.concertriccir2.csv
+AI/KNN/demo_data/2.concerticcir1.csv
+AI/KNN/demo_data/1.ushape.csv
