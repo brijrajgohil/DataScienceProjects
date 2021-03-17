@@ -29,3 +29,4 @@ AI/StackOverflowTagPredictor/.ipynb_checkpoints/Main-checkpoint.ipynb
 AI/StackOverflowTagPredictor/.DS_Store
 AI/.DS_Store
 AI/StackOverflowTagPredictor/Processed.db
+AI/StackOverflowTagPredictor/lr_with_equal_width.pkl
