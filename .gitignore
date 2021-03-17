@@ -17,3 +17,14 @@ AI/KNN/demo_data/4.linearsep.csv
 AI/KNN/demo_data/3.concertriccir2.csv
 AI/KNN/demo_data/2.concerticcir1.csv
 AI/KNN/demo_data/1.ushape.csv
+AI/StackOverflowTagPredictor/train_no_dup.db
+AI/StackOverflowTagPredictor/train.db
+AI/StackOverflowTagPredictor/Train.csv
+AI/StackOverflowTagPredictor/tag_counts_dict_dtm.csv
+AI/StackOverflowTagPredictor/facebook-recruiting-iii-keyword-extraction/Train.zip
+AI/StackOverflowTagPredictor/facebook-recruiting-iii-keyword-extraction/Test.zip
+AI/StackOverflowTagPredictor/facebook-recruiting-iii-keyword-extraction/SampleSubmission.csv
+AI/StackOverflowTagPredictor/facebook-recruiting-iii-keyword-extraction/.DS_Store
+AI/StackOverflowTagPredictor/.ipynb_checkpoints/Main-checkpoint.ipynb
+AI/StackOverflowTagPredictor/.DS_Store
+AI/.DS_Store
