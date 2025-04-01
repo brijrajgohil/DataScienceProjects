@@ -1,0 +1,201 @@
+Sr. No.,Location,Sub-Area,Propert Type,Property Area in Sq. Ft.,Price in lakhs,Price in Millions,Company Name,TownShip Name/ Society Name,Total TownShip Area in Acres,ClubHouse,School / University in Township ,Hospital in TownShip,Mall in TownShip,Park / Jogging track,Swimming Pool,Gym
+1,"Pune, Maharashtra, India",Bavdhan,1 BHK,492,39,3.9,Shapoorji Paloonji,Vanaha ,1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,"Pune, Maharashtra, India",Bavdhan,2 BHK,774,65,6.5,Shapoorji Paloonji,Vanaha ,1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,"Pune, Maharashtra, India",Bavdhan,3 BHK,889,74,7.4,Shapoorji Paloonji,Vanaha ,1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+4,"Pune, Maharashtra, India",Bavdhan,3 BHK Grand,1018,89,8.9,Shapoorji Paloonji,Vanaha ,1000,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+5,"Pune, Maharashtra, India",Mahalunge,2BHK,743,74,7.4,Godrej Properties,Godrej Hills retreat,100,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+6,"Pune, Maharashtra, India",Mahalunge,3BHK,975,95,9.5,Godrej Properties,Godrej Hills retreat,100,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7,"Pune, Maharashtra, India",Balewadi,2BHK,877 to 912,75,7.5,ANP CORP,ANP Universe,25,Yes,No,No,No,Yes,Yes,Yes
+8,"Pune, Maharashtra, India",Balewadi,3BHK,1077 to 1272,100,10,ANP CORP,ANP Universe,25,Yes,No,No,No,Yes,Yes,Yes
+9,"Pune, Maharashtra, India",Ravet,2BHK,905,65,6.5,Urban Space Creator,Urban Skyline,10,Yes,No,No,No,Yes,Yes,Yes
+10,"Pune, Maharashtra, India",Ravet,3BHK,1125,88,8.8,Urban Space Creator,Urban Skyline,10,Yes,No,No,No,Yes,Yes,Yes
+11,"Pune, Maharashtra, India",Ravet,4BHK,1644,135,13.5,Urban Space Creator,Urban Skyline,10,Yes,No,No,No,Yes,Yes,Yes
+12,"Pune, Maharashtra, India",Ravet,5BHK,2220,188,18.8,Urban Space Creator,Urban Skyline,10,Yes,No,No,No,Yes,Yes,Yes
+13,"Pune, Maharashtra, India",Ravet,6BHK,2220,188,18.8,Urban Space Creator,Urban Skyline,10,Yes,No,No,No,Yes,Yes,Yes
+14,"Pune, Maharashtra, India",Baner,2BHK,662 to 845,58,5.8,VTP Reality,VTP Cierra,10,Yes,No,No,No,Yes,Yes,Yes
+15,"Pune, Maharashtra, India",Baner,3BHK,890 to 1212,95,9.5,VTP Reality,VTP Cierra,10,Yes,No,No,No,Yes,Yes,Yes
+16,"Pune, Maharashtra, India",Mahalunge,1 BHK,423,40,4,VTP Reality,VTP Blue Water,50,Yes,No,No,No,Yes,Yes,Yes
+17,"Pune, Maharashtra, India",Mahalunge,2BHK,665,58,5.8,VTP Reality,VTP Blue Water,50,Yes,No,No,No,Yes,Yes,Yes
+18,"Pune, Maharashtra, India",Mahalunge,3BHK,792 to 965,78,7.8,VTP Reality,VTP Blue Water,50,Yes,No,No,No,Yes,Yes,Yes
+19,"Pune, Maharashtra, India",Ravet,1BHK,462,36,3.6,Waghvani Constructions,OM Mangalam Chaitanya,25,Yes,No,No,No,Yes,Yes,Yes
+20,"Pune, Maharashtra, India",Ravet,2BHK,666,48,4.8,Waghvani Constructions,OM Mangalam Chaitanya,25,Yes,No,No,No,Yes,Yes,Yes
+21,"Pune, Maharashtra, India",Ravet,2BHK,750,57,5.7,Sukwani Associates,Sukwani Aspire,10,Yes,No,No,No,Yes,Yes,Yes
+22,"Pune, Maharashtra, India",Ravet,3BHK,1030,79,7.9,Sukwani Associates,Sukwani Aspire,10,Yes,No,No,No,Yes,Yes,Yes
+23,"Pune, Maharashtra, India",Kharadi,1BHK,446,37,3.7,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+24,"Pune, Maharashtra, India",Kharadi,2BHK,796,57,5.7,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+25,"Pune, Maharashtra, India",Kharadi,2BHK,842,59,5.9,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+26,"Pune, Maharashtra, India",Kharadi,2BHK,865,61,6.1,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+27,"Pune, Maharashtra, India",Kharadi,2BHK,902,63,6.3,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+28,"Pune, Maharashtra, India",Kharadi,2BHK,1154,79,7.9,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+29,"Pune, Maharashtra, India",Kharadi,3BHK,872,61,6.1,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+30,"Pune, Maharashtra, India",Kharadi,3BHK,934,65,6.5,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+31,"Pune, Maharashtra, India",Kharadi,3BHK,1088,73,7.3,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+32,"Pune, Maharashtra, India",Kharadi,3BHK,1109,76,7.6,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+33,"Pune, Maharashtra, India",Kharadi,3BHK,1163,80,8,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+34,"Pune, Maharashtra, India",Kharadi,3BHK,1419,96,9.6,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+35,"Pune, Maharashtra, India",Kharadi,3BHK,1485,100,10,Mantra Properties,Mantra 29 Gold,25,Yes,No,No,No,Yes,No,Yes
+36,"Pune, Maharashtra, India",Balewadi,2BHK,684,70,7,Mantra Properties,Mantra Monarch,3,Yes,No,No,No,Yes,Yes,Yes
+37,"Pune, Maharashtra, India",Balewadi,3BHK,990,90,9,Mantra Properties,Mantra Monarch,3,Yes,No,No,No,Yes,Yes,Yes
+38,"Pune, Maharashtra, India",Koregaon Park,2BHK,882,97,9.7,Mantra Properties,Infinity,25,Yes,No,No,No,Yes,Yes,Yes
+39,"Pune, Maharashtra, India",Koregaon Park,3BHK,1103,120,12,Mantra Properties,Infinity,25,Yes,No,No,No,Yes,Yes,Yes
+40,"Pune, Maharashtra, India",Keshav Nagar,1BHK,543,42,4.2,Mantra Properties,Mantra Insignia,,Yes,No,No,No,Yes,Yes,Yes
+41,"Pune, Maharashtra, India",Keshav Nagar,2BHK,801 to 1125,57,5.7,Mantra Properties,Mantra Insignia,,Yes,No,No,No,Yes,Yes,Yes
+42,"Pune, Maharashtra, India",Keshav Nagar,3BHK,1272 to 2138,Null,#VALUE!,Mantra Properties,Mantra Insignia,,Yes,No,No,No,Yes,Yes,Yes
+43,"Pune, Maharashtra, India",KirkatWadi Sinhagad Road,1BHK,320,14,1.4,Mantra Properties,7Hills,,Yes,No,No,No,Yes,Yes,Yes
+44,"Pune, Maharashtra, India",KirkatWadi Sinhagad Road,2BHK,473,22,2.2,Mantra Properties,7Hills,,Yes,No,No,No,Yes,Yes,Yes
+45,"Pune, Maharashtra, India",KirkatWadi Sinhagad Road,3BHK,581,26,2.6,Mantra Properties,7Hills,,Yes,No,No,No,Yes,Yes,Yes
+46,"Pune, Maharashtra, India",Akurdi,2BHK,790,80,8,Mantra Properties,Mantra Sky Tower,3.5,Yes,No,No,No,Yes,Yes,Yes
+47,"Pune, Maharashtra, India",Akurdi,2BHK,820,83,8.3,Mantra Properties,Mantra Sky Tower,3.5,Yes,No,No,No,Yes,Yes,Yes
+48,"Pune, Maharashtra, India",Akurdi,3BHK,989,101,10.1,Mantra Properties,Mantra Sky Tower,3.5,Yes,No,No,No,Yes,Yes,Yes
+49,"Pune, Maharashtra, India",Akurdi,3BHK,1003,103,10.3,Mantra Properties,Mantra Sky Tower,3.5,Yes,No,No,No,Yes,Yes,Yes
+50,"Pune, Maharashtra, India",Akurdi,3BHK,1182,128,12.8,Mantra Properties,Mantra Sky Tower,3.5,Yes,No,No,No,Yes,Yes,Yes
+51,"Pune, Maharashtra, India",Akurdi,5BHK,1579,163,16.3,Mantra Properties,Mantra Sky Tower,3.5,Yes,No,No,No,Yes,Yes,Yes
+52,"Pune, Maharashtra, India",pimpri pune,shop,163,54,5.4,ravima ventures ,the work club,,no,No,No,No,Yes,no,Yes
+53,"Pune, Maharashtra, India",tathawade,1 BHK,491,39,3.9,ravima ventures ,newton homes,,no,No,No,No,Yes,no,Yes
+54,"Pune, Maharashtra, India",tathawade,2 bhk,659,51,5.1,ravima ventures ,newton homes,,no,No,No,No,Yes,no,Yes
+55,"Pune, Maharashtra, India",tathawade,2bhk ,732,60,6,ravima ventures ,newton homes,,no,No,No,No,Yes,no,Yes
+56,"Pune, Maharashtra, India",tathawade,3  bhk ,809,66,6.6,ravima ventures ,newton homes,,no,No,No,No,No,No,Yes
+57,"Pune, Maharashtra, India",hadapsar,1BHK,460,45.5,4.55,proviso group,lesiure Town,,no,No,No,No,yes,yes,Yes
+58,"Pune, Maharashtra, India",hadapsar,2 bhk,734,72.5,7.25,proviso group,lesiure Town,,no,No,No,No,yes,yes,Yes
+59,"Pune, Maharashtra, India",hadapsar,2 bhk,753,73.5,7.35,proviso group,lesiure Town,,no,No,No,No,yes,yes,Yes
+60,"Pune, Maharashtra, India",hadapsar,2 bhk,675,62,6.2,ravima ventures ,newton homes,,no,No,No,No,yes,no,no
+61,"Pune, Maharashtra, India",hadapsar,3 bhk,917,84,8.4,ravima ventures ,newton homes,,no,no,No,No,yes,no,no
+62,"Pune, Maharashtra, India",kiwale,2bhk,670,54.14,5.414,unique properties,k ville,,yes,no,No,No,yes,yes,no
+63,"Pune, Maharashtra, India",kiwale,2bhk,740,58.32,5.832,unique properties,k ville,,yes,no,No,No,yes,yes,no
+64,"Pune, Maharashtra, India",kiwale,2.5 BHK,847,69.38,6.938,unique properties,k ville,,yes,no,No,No,yes,yes,no
+65,"Pune, Maharashtra, India",kiwale,2.5 BHK,936,75.03,7.503,unique properties,k ville,,yes,no,No,No,yes,yes,no
+66,"Pune, Maharashtra, India",kiwale,3 BHK,990,79.02,7.902,unique properties,k ville,,yes,no,No,No,yes,yes,no
+67,"Pune, Maharashtra, India",kiwale,3 BHK ,1032,82.1,8.21,unique properties,k ville,,yes,no,No,No,yes,yes,no
+68,"Pune, Maharashtra, India",kayani nagar,3 bhk,1698,249,24.9,sagitarius ecospaces llp,bluegrass residences,,yes,no,no,no ,yes,yes,yes
+69,"Pune, Maharashtra, India",kayani nagar,4 bhk,2267,460,46,sagitarius ecospaces llp,bluegrass residences,,yes,no,no,no ,yes,yes,yes
+70,"Pune, Maharashtra, India",pisoli,2 bhk,670,45.75,4.575,nirman developers,brookefield willows,,yes,no,no,no ,yes,yes,yes
+71,"Pune, Maharashtra, India",pisoli,2 bhk,725,49.34,4.934,nirman developers,brookefield willows,,yes,no,no,no ,yes,yes,yes
+72,"Pune, Maharashtra, India",pisoli,2 bhk,731,49.74,4.974,nirman developers,brookefield willows,,yes,no,no,no ,yes,yes,yes
+73,"Pune, Maharashtra, India",pisoli,2 bhk,744,50.56,5.056,nirman developers,brookefield willows,,yes,no,no,no ,yes,yes,yes
+74,"Pune, Maharashtra, India",pisoli,3 bhk,923,923,92.3,nirman developers,brookefield willows,,yes,no,no,no ,yes,yes,yes
+75,"Pune, Maharashtra, India",pisoli,3 bhk,930,930,93,nirman developers,brookefield willows,,yes,no,no,no ,yes,yes,yes
+76,"Pune, Maharashtra, India",manjri ,1 bhk,446,36,3.6,jhala group,tranquility annexe,,yes,no,no,no ,yes,yes,yes
+77,"Pune, Maharashtra, India",manjri ,2bhk,670,55,5.5,jhala group,tranquility annexe,,yes,no,no,no ,yes,yes,yes
+78,"Pune, Maharashtra, India",manjri ,2.5 bhk,792,65.5,6.55,jhala group,tranquility annexe,,yes,no,no,no ,yes,yes,yes
+79,"Pune, Maharashtra, India",mahalunge,2 bhk,1180,68,6.8,jhala group,mahalunge riviera ,,yes,no,no,no ,yes,yes,yes
+80,"Pune, Maharashtra, India",mahalunge,2 bhk,860,65,6.5,jhala group,mahalunge riviera ,,yes,no,no,no ,yes,yes,yes
+81,"Pune, Maharashtra, India",mahalunge,3 bhk,988,92,9.2,jhala group,mahalunge riviera ,,yes,no,no,no ,yes,yes,yes
+82,"Pune, Maharashtra, India",mahalunge,3 bhk,1093,92,9.2,jhala group,mahalunge riviera ,,yes,no,no,no ,yes,yes,yes
+83,"Pune, Maharashtra, India",handewadi,1bhk,456,33.5,3.35,jhala group,simplicity,,yes,no,no,no ,yes,no,yes
+84,"Pune, Maharashtra, India",handewadi,2bhk,644,47.3,4.73,jhala group,simplicity,,yes,no,no,no ,yes,no,yes
+85,"Pune, Maharashtra, India",handewadi,2.5 bhk,785,55.22,5.522,jhala group,simplicity,,yes,no,no,no ,yes,no,yes
+86,"Pune, Maharashtra, India",koregoan,3bhk,1060,136,13.6,shroff developers ,aureta ,,no,no,no,no ,yes,yes,yes
+87,"Pune, Maharashtra, India",koregoan,3.5bhk,113,143,14.3,shroff developers ,aureta ,,no,no,no,no ,yes,yes,yes
+88,"Pune, Maharashtra, India",Mundhwa,2bhk,664,47.59,4.759,unique properties,unique legacy royale,,no,no,no,no ,yes,No,yes
+89,"Pune, Maharashtra, India",Mundhwa,2bhk,670,47.7,4.77,unique properties,unique legacy royale,,no,no,no,no ,yes,No,yes
+90,"Pune, Maharashtra, India",Mundhwa,2bhk,673,47.8,4.78,unique properties,unique legacy royale,,no,no,no,no ,yes,No,yes
+91,"Pune, Maharashtra, India",Mundhwa,2bhk,682,47.91,4.791,unique properties,unique legacy royale,,no,no,no,no ,yes,No,yes
+92,"Pune, Maharashtra, India",Mundhwa,2bhk,698,48.02,4.802,unique properties,unique legacy royale,,no,no,no,no ,yes,No,yes
+93,"Pune, Maharashtra, India",NIBM,3BHK,1239,161,16.1,kundan Spaces,Presidia ,,yes,no,no,no ,yes,Yes,yes
+94,"Pune, Maharashtra, India",NIBM,3BHK,1315,170,17,kundan Spaces,Presidia ,,yes,no,no,no ,yes,Yes,yes
+95,"Pune, Maharashtra, India",NIBM,3BHK,1388,178,17.8,kundan Spaces,Presidia ,,yes,no,no,no ,yes,Yes,yes
+96,"Pune, Maharashtra, India",NIBM,3BHK,1463,187,18.7,kundan Spaces,Presidia ,,yes,no,no,no ,yes,Yes,yes
+97,"Pune, Maharashtra, India",NIBM,3.5 bhk,1671,211,21.1,kundan Spaces,Presidia ,,yes,no,no,no ,yes,Yes,yes
+98,"Pune, Maharashtra, India",NIBM,3.5 bhk,1687,213,21.3,kundan Spaces,Presidia ,,yes,no,no,no ,yes,Yes,yes
+99,"Pune, Maharashtra, India",BT Kawade RD,1BHK,575,65,6.5,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+100,"Pune, Maharashtra, India",BT Kawade RD,2bhk,751,84,8.4,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+101,"Pune, Maharashtra, India",BT Kawade RD,2bhk,761,85,8.5,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+102,"Pune, Maharashtra, India",BT Kawade RD,2bhk,871,96,9.6,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+103,"Pune, Maharashtra, India",BT Kawade RD,3BHK,1166,129,12.9,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+104,"Pune, Maharashtra, India",BT Kawade RD,3BHK,1206,133,13.3,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+105,"Pune, Maharashtra, India",BT Kawade RD,3BHK,1272,139,13.9,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+106,"Pune, Maharashtra, India",BT Kawade RD,3BHK,1279,140,14,kundan Spaces,Eternia 2.0,,yes,no,no,no ,yes,Yes,yes
+107,"Pune, Maharashtra, India",Undri ,2bhk,646,43.2,4.32,venkatesh bhoomi construction,Bliss Solitaire,,no,no,no,no ,yes,no,no
+108,"Pune, Maharashtra, India",Undri ,2bhk,717,47.4,4.74,venkatesh bhoomi construction,Bliss Solitaire,,no,no,no,no ,yes,no,no
+109,"Pune, Maharashtra, India",handewadi,1BHK,436,30.58,3.058,Lush Life,Impero,,no,no,no,no ,yes,no,no
+110,"Pune, Maharashtra, India",handewadi,2bhk,637,43.49,4.349,Lush Life,Impero,,no,no,no,no ,yes,no,no
+111,"Pune, Maharashtra, India",handewadi,2bhk,642,43.83,4.383,Lush Life,Impero,,no,no,no,no ,yes,no,no
+112,"Pune, Maharashtra, India",handewadi,2bhk,655,44.44,4.444,Lush Life,Impero,,no,no,no,no ,yes,no,no
+113,"Pune, Maharashtra, India",handewadi,2bhk,668,45.52,4.552,Lush Life,Impero,,no,no,no,no ,yes,no,no
+114,"Pune, Maharashtra, India",handewadi,3bhk,810,54,5.4,Lush Life,Impero,,no,no,no,no ,yes,no,no
+115,"Pune, Maharashtra, India",Karvanagar ,2bhk,735,111,11.1,maha anand Pinnac associates ,River Dale Residency,,no,no,no,no ,yes,no,yes
+116,"Pune, Maharashtra, India",Karvanagar ,2bhk,783,118,11.8,maha anand Pinnac associates ,River Dale Residency,,no,no,no,no ,yes,no,yes
+117,"Pune, Maharashtra, India",Karvanagar ,2bhk,805,121,12.1,maha anand Pinnac associates ,River Dale Residency,,no,no,no,no ,yes,no,yes
+118,"Pune, Maharashtra, India",Karvanagar ,3bhk,1074,162,16.2,maha anand Pinnac associates ,River Dale Residency,,no,no,no,no ,yes,no,yes
+119,"Pune, Maharashtra, India",Karvanagar ,3bhk,1111,167,16.7,maha anand Pinnac associates ,River Dale Residency,,no,no,no,no ,yes,no,yes
+120,"Pune, Maharashtra, India",NIBM,1BHK,535,36,3.6,vasupujya corporation,Neco Beaumont,,yes,no,no,no ,yes,no,yes
+121,"Pune, Maharashtra, India",NIBM,2bhk,725,52,5.2,vasupujya corporation,Neco Beaumont,,yes,no,no,no ,yes,no,yes
+122,"Pune, Maharashtra, India",magarpatta ,2bhk,810,79,7.9,ace constructions ,Anutham,,yes,no,no,no ,yes,no,no
+123,"Pune, Maharashtra, India",magarpatta ,3bhk ,947,97,9.7,ace constructions ,Anutham,,yes,no,no,no ,yes,no,no
+124,"Pune, Maharashtra, India",Hinjewadi ,2bhk,697,68.06,6.806,Shapoorji Paloonji,Sensorium ,,yes,no,no,no ,yes,yes,yes
+125,"Pune, Maharashtra, India",Hinjewadi ,2bhk,711,68.41,6.841,Shapoorji Paloonji,Sensorium ,,yes,no,no,no ,yes,yes,yes
+126,"Pune, Maharashtra, India",Hinjewadi ,2bhk,792,78,7.8,Shapoorji Paloonji,Sensorium ,,yes,no,no,no ,yes,yes,yes
+127,"Pune, Maharashtra, India",Hinjewadi ,3bhk,980,98.87,9.887,Shapoorji Paloonji,Sensorium ,,yes,no,no,no ,yes,yes,yes
+128,"Pune, Maharashtra, India",Hinjewadi ,2+2 bhk,1400,140,14,Shapoorji Paloonji,Sensorium ,,yes,no,no,no ,yes,yes,yes
+129,"Pune, Maharashtra, India",Hinjewadi ,3+2bhk ,1772,177,17.7,Shapoorji Paloonji,Sensorium ,,yes,no,no,no ,yes,yes,yes
+130,"Pune, Maharashtra, India",hadapsar,2 bhk ,732,68.8,6.88,Wellwisher Apartments ,kiarah terrazo,,no,no,no,no ,yes,no,no
+131,"Pune, Maharashtra, India",hadapsar,2 bhk ,751,68.8,6.88,Wellwisher Apartments ,kiarah terrazo,,no,no,no,no ,yes,no,no
+132,"Pune, Maharashtra, India",hadapsar,5 bhk,1662,130,13,Wellwisher Apartments ,kiarah terrazo,,no,no,no,no ,yes,no,no
+133,"Pune, Maharashtra, India",ravet ,2bhk,705,48,4.8,Dolphin Group ,Dolphin Garima ,,no,no,no,no ,no,no,yes
+134,"Pune, Maharashtra, India",ravet ,2bhk,726,51,5.1,Dolphin Group ,Dolphin Garima ,,no,no,no,no ,no,no,yes
+135,"Pune, Maharashtra, India",ravet ,2bhk,809,56,5.6,Dolphin Group ,Dolphin Garima ,,no,no,no,no ,no,no,yes
+136,"Pune, Maharashtra, India",vimannagar,2bhk,734,95,9.5,Oxy Buildcorp,Oxy Beaumonde ,,yes,no,no,no ,yes,yes,yes
+137,"Pune, Maharashtra, India",vimannagar,2bhk,793,110,11,Oxy Buildcorp,Oxy Beaumonde ,,yes,no,no,no ,yes,yes,yes
+138,"Pune, Maharashtra, India",vimannagar,2bhk,904,118,11.8,Oxy Buildcorp,Oxy Beaumonde ,,yes,no,no,no ,yes,yes,yes
+139,"Pune, Maharashtra, India",vimannagar,3bhk,1154,146,14.6,Oxy Buildcorp,Oxy Beaumonde ,,yes,no,no,no ,yes,yes,yes
+140,"Pune, Maharashtra, India",vimannagar,3bhk,1168,147,14.7,Oxy Buildcorp,Oxy Beaumonde ,,yes,no,no,no ,yes,yes,yes
+141,"Pune, Maharashtra, India",vimannagar,3bhk,1189,149,14.9,Oxy Buildcorp,Oxy Beaumonde ,,yes,no,no,no ,yes,yes,yes
+142,"Pune, Maharashtra, India",Hinjewadi ,1BHK,479,38.68,3.868,kohinoor group,Sportsville ,,no,no,no,no ,yes,yes,yes
+143,"Pune, Maharashtra, India",Hinjewadi ,2bhk,693,58,5.8,kohinoor group,Sportsville ,,no,no,no,no ,yes,yes,yes
+144,"Pune, Maharashtra, India",Hinjewadi ,2bhk,725,60.72,6.072,kohinoor group,Sportsville ,,no,no,no,no ,yes,yes,yes
+145,"Pune, Maharashtra, India",BT Kawade RD,2bhk,808,81.49,8.149,kohinoor group,Presidenta ,,no,no,no,no ,yes,yes,yes
+146,"Pune, Maharashtra, India",BT Kawade RD,3bhk,1086,108,10.8,kohinoor group,Presidenta ,,no,no,no,no,yes,yes,yes
+147,"Pune, Maharashtra, India",wadgaon sheri ,2bhk ,785,74.5,7.45,Bhaktamar Realities ,Bhaktamar Residency ,,yes,no,no,no,yes,yes,yes
+148,"Pune, Maharashtra, India",wadgaon sheri ,2bhk,844,80.59,8.059,Bhaktamar Realities ,Bhaktamar Residency ,,yes,no,no,no,yes,yes,yes
+149,"Pune, Maharashtra, India",wadgaon sheri ,2bhk,873,83,8.3,Bhaktamar Realities ,Bhaktamar Residency ,,yes,no,no,no,yes,yes,yes
+150,"Pune, Maharashtra, India",Susgaon ,2bhk,606,47.25,4.725,Porwal & Anand Develkoper,Parklane UrbanJoy ,,yes,no,no,no,yes,yes,yes
+151,"Pune, Maharashtra, India",Susgaon ,2bhk,611,47.5,4.75,Porwal & Anand Develkoper,Parklane UrbanJoy ,,yes,no,no,no,yes,yes,yes
+152,"Pune, Maharashtra, India",Susgaon ,2bhk,626,48.43,4.843,Porwal & Anand Develkoper,Parklane UrbanJoy ,,yes,no,no,no,yes,yes,yes
+153,"Pune, Maharashtra, India",Susgaon ,2bhk,691,55.26,5.526,Porwal & Anand Develkoper,Parklane UrbanJoy ,,yes,no,no,no,yes,yes,yes
+154,"Pune, Maharashtra, India",Susgaon ,3bhk,835,66,6.6,Porwal & Anand Develkoper,Parklane UrbanJoy ,,yes,no,no,no,yes,yes,yes
+155,"Pune, Maharashtra, India",Susgaon ,3bhk,854,67,6.7,Porwal & Anand Develkoper,Parklane UrbanJoy ,,yes,no,no,no,yes,yes,yes
+156,"Pune, Maharashtra, India",mohammadwadi ,2bhk,626,45.7,4.57,Porwal  Develkoper,khush vista,,yes,no,no,no,yes,no,no
+157,"Pune, Maharashtra, India",mohammadwadi ,2bhk,715,45.5,4.55,Porwal  Develkoper,khush vista,,yes,no,no,no,yes,no,no
+158,"Pune, Maharashtra, India",dhanori ,2bhk,624 to 761,59,5.9,keystone landmark ,oxy eterno,,no,no,no,no,yes,no,no
+159,"Pune, Maharashtra, India",dhanori ,3bhk,968,87,8.7,keystone landmark ,oxy eterno,,no,no,no,no,yes,no,no
+160,"Pune, Maharashtra, India",dhanori ,3bhk,996,89,8.9,keystone landmark ,oxy eterno,,no,no,no,no,yes,no,no
+161,"Pune, Maharashtra, India",dhanori ,3bhk,1038,92,9.2,keystone landmark ,oxy eterno,,no,no,no,no,yes,no,no
+162,"Pune, Maharashtra, India",bavdhan budruk ,1bhk ,489,43.8,4.38,Puraniks,Abitante Fiore,,yes,no,no,no,yes,yes,yes
+163,"Pune, Maharashtra, India",bavdhan budruk ,2 bhk,598,55.3,5.53,Puraniks,Abitante Fiore,,yes,no,no,no,yes,yes,yes
+164,"Pune, Maharashtra, India",bavdhan budruk ,2bhk,616,56.5,5.65,Puraniks,Abitante Fiore,,yes,no,no,no,yes,yes,yes
+165,"Pune, Maharashtra, India",bavdhan budruk ,2bhk,692,62.3,6.23,Puraniks,Abitante Fiore,,yes,no,no,no,yes,yes,yes
+166,"Pune, Maharashtra, India",bavdhan budruk ,3 bhk,867,79.3,7.93,Puraniks,Abitante Fiore,,yes,no,no,no,yes,yes,yes
+167,"Pune, Maharashtra, India",bavdhan budruk ,3 bhk,908,82.5,8.25,Puraniks,Abitante Fiore,,yes,no,no,no,yes,yes,yes
+168,"Pune, Maharashtra, India",lonavala,3 bhk,1624,159,15.9,Puraniks,puraniks Sayama,,yes,no,no,no,yes,yes,yes
+169,"Pune, Maharashtra, India",lonavala,4 bhk,2043,215,21.5,Puraniks,puraniks Sayama,,yes,no,no,no,yes,yes,yes
+170,"Pune, Maharashtra, India",handewadi,2bhk,727,45.74,4.574,majestique landmarks ,Rhythm county ,,no,no,no,no,yes,yes,no
+171,"Pune, Maharashtra, India",handewadi,3bhk,923,58.95,5.895,majestique landmarks ,Rhythm county ,,no,no,no,no,yes,yes,no
+172,"Pune, Maharashtra, India",manjri ,2 bhk,561 to 902,59,5.9,Kalpataru,Kalpataru Serenity,,yes,no,no,no,yes,yes,yes
+173,"Pune, Maharashtra, India",manjri ,3bhk,1056 to 1091,109,10.9,Kalpataru,Kalpataru Serenity,,yes,no,no,no,yes,yes,yes
+174,"Pune, Maharashtra, India",Kharadi,2 bhk,408,39.99,3.999,Vijaya Laxmi Creations,Satyam Shivam,,yes,no,no,no,yes,no,yes
+175,"Pune, Maharashtra, India",Kharadi,2 bhk,546,53.99,5.399,Vijaya Laxmi Creations,Satyam Shivam,,yes,no,no,no,yes,no,yes
+176,"Pune, Maharashtra, India",Kharadi,2 bhk,629,59.99,5.999,Vijaya Laxmi Creations,Satyam Shivam,,yes,no,no,no,yes,no,yes
+177,"Pune, Maharashtra, India",wadgaon sheri ,1bhk,378,33,3.3,Vijaya Laxmi Creations,Satyam Serenity,,yes,no,no,no,yes,no,yes
+178,"Pune, Maharashtra, India",wadgaon sheri ,1bhk,494,47,4.7,Vijaya Laxmi Creations,Satyam Serenity,,yes,no,no,no,yes,no,yes
+179,"Pune, Maharashtra, India",wadgaon sheri ,2bhk,780,70,7,Vijaya Laxmi Creations,Satyam Serenity,,yes,no,no,no,yes,no,yes
+180,"Pune, Maharashtra, India",wadgaon sheri ,2bhk,850,73,7.3,Vijaya Laxmi Creations,Satyam Serenity,,yes,no,no,no,yes,no,yes
+181,"Pune, Maharashtra, India",wadgaon sheri ,2bhk,900,78,7.8,Vijaya Laxmi Creations,Satyam Serenity,,yes,no,no,no,yes,no,yes
+182,"Pune, Maharashtra, India",wadgaon sheri ,2bhk,930,83,8.3,Vijaya Laxmi Creations,Satyam Serenity,,yes,no,no,no,yes,no,yes
+183,"Pune, Maharashtra, India",baner,3bhk,"1181, 1364",175,17.5,Kalpataru,jade residences ,,no ,no,no,no,yes,yes,no
+184,"Pune, Maharashtra, India",baner,3.5bhk,1740,250,25,Kalpataru,jade residences ,,no ,no,no,no,yes,yes,no
+185,"Pune, Maharashtra, India",baner,4.5bhk,2447,420,42,Kalpataru,jade residences ,,no ,no,no,no,yes,yes,no
+186,"Pune, Maharashtra, India",bavdhan,1bhk,405,39.49,3.949,vijaya Laxmi infrarealtors,Satyam Shery,,yes,no,no,no,yes,no ,no 
+187,"Pune, Maharashtra, India",bavdhan,1bhk,408,39.49,3.949,vijaya Laxmi infrarealtors,Satyam Shery,,yes,no,no,no,yes,no ,no 
+188,"Pune, Maharashtra, India",bavdhan,1bhk,392,39.49,3.949,vijaya Laxmi infrarealtors,Satyam Shery,,yes,no,no,no,yes,no ,no 
+189,"Pune, Maharashtra, India",bavdhan,2bhk,667,64.99,6.499,vijaya Laxmi infrarealtors,Satyam Shery,,yes,no,no,no,yes,no ,no 
+190,"Pune, Maharashtra, India",bavdhan,2bhk,641,64.99,6.499,vijaya Laxmi infrarealtors,Satyam Shery,,yes,no,no,no,yes,no ,no 
+191,"Pune, Maharashtra, India",bavdhan,2bhk,665,64.99,6.499,vijaya Laxmi infrarealtors,Satyam Shery,,yes,no,no,no,yes,no ,no 
+192,"Pune, Maharashtra, India",talegoan ,1bhk,280,13.19,1.319,Calyx Spaces,Atulya Kanhe,,yes,no,no,no,yes,yes,yes
+193,"Pune, Maharashtra, India",talegoan ,2bhk,385,17.29,1.729,Calyx Spaces,Atulya Kanhe,,yes,no,no,no,yes,no,yes
+194,"Pune, Maharashtra, India",BANER,2bhk,730,87,8.7,SUPREME,SUPREME ESTIA,5,yes,no,no,no,yes,yes,yes
+195,"Pune, Maharashtra, India",BANER,3bhk,1070 to 1200,129,12.9,SUPREME,SUPREME ESTIA,5,yes,no,no,no,yes,yes,yes
+196,"Pune, Maharashtra, India",BANER,3bhk,1300 to 1400,160,16,SUPREME,SUPREME ESTIA,5,yes,no,no,no,yes,yes,yes
+197,"Pune, Maharashtra, India",BANER,4bhk,1600 +,230,23,SUPREME,SUPREME ESTIA,5,yes,no,no,no,yes,yes,yes
+198,"Pune, Maharashtra, India",BANER,2 bhk,769 to 809 ,95,9.5,Tejraaj Group,TEJ ELEVIA,2.5,no,no,no,no,yes,yes,yes
+199,"Pune, Maharashtra, India",BANER,3 bhk,1101 to 1113,135,13.5,Tejraaj Group,TEJ ELEVIA,2.5,no,no,no,no,yes,yes,yes
+200,"Pune, Maharashtra, India",BANER,2bhk ,776,90.68,9.068,VTP Reality,vtp solitaire ,,yes,no,no,no,yes,yes,yes
