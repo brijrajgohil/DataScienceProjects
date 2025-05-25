@@ -33,3 +33,6 @@ AI/StackOverflowTagPredictor/lr_with_equal_width.pkl
 .DS_Store
 # Jupyter Notebook
 .ipynb_checkpoints
+.DS_Store
+.DS_Store
+.DS_Store
